@@ -1,0 +1,1 @@
+(mmm-mako :repo "emacsattic/mmm-mako" :fetcher github)
